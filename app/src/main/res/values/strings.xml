@@ -5,6 +5,6 @@
     <string name="phone_number" translatable="false">78193137         </string>
     <string name="github_username" translatable="false">petrlr14</string>
     <string name="my_name" translatable="false">Pedro Gómez</string>
-    <string name="label" translatable="false">Powered by</string>
+    <string name="label" translatable="false">Powered by </string>
     <string name="carrera" translatable="false">Ingeniero en Informática</string>
 </resources>
