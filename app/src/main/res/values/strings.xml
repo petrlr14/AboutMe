@@ -1,10 +1,10 @@
 <resources>
     <string name="app_name">About Me</string>
     <string name="mail" translatable="false">00057616@uca.edu.sv</string>
-    <string name="twitter" translatable="false">@PeG_14</string>
+    <string name="twitter" translatable="false">\@PeG_14</string>
     <string name="phone_number" translatable="false">78193137         </string>
     <string name="github_username" translatable="false">petrlr14</string>
     <string name="my_name" translatable="false">Pedro Gómez</string>
-    <string name="label" translatable="false">Powered by </string>
+    <string name="creator" >Powered by Pedro Gómez</string>
     <string name="carrera" translatable="false">Ingeniero en Informática</string>
 </resources>
