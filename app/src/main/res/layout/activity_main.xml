@@ -54,16 +54,19 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
+                android:textColor="@color/colorFonts"
                 android:text="@string/mail"/>
             <ImageView
                 android:layout_width="32dp"
                 android:layout_height="32dp"
-                android:layout_marginLeft="8dp"
+                android:layout_marginLeft="36dp"
                 android:src="@drawable/phone"/>
             <TextView
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
+                android:gravity="center"
+                android:textColor="@color/colorFonts"
                 android:text="@string/phone_number"/>
         </LinearLayout>
 
@@ -80,18 +83,20 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
+                android:textColor="@color/colorFonts"
                 android:layout_marginLeft="46dp"
                 android:text="@string/twitter"/>
             <ImageView
                 android:layout_width="32dp"
                 android:layout_height="32dp"
-                android:layout_marginLeft="46dp"
+                android:layout_marginLeft="72dp"
                 android:src="@drawable/github"/>
             <TextView
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:layout_marginLeft="4dp"
+                android:gravity="center"
+                android:textColor="@color/colorFonts"
                 android:text="@string/github_username"/>
         </LinearLayout>
 
@@ -100,12 +105,14 @@
             android:layout_height="0dp"
             android:layout_weight="1"
             android:orientation="horizontal"
-            android:gravity="center_horizontal|bottom">
+            android:gravity="center_horizontal">
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textColor="@color/colorFonts"
-                android:text="Powered by" />
+                android:layout_gravity="center|bottom"
+                android:textSize="16sp"
+                android:text="@string/creator" />
         </LinearLayout>
 
     </LinearLayout>
