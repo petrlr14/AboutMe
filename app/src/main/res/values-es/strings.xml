@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sobre mí</string>
+    <string name="creator">Impulsado por Pedro Gómez</string>
+    <string name="githubDecription">Icono de GitHub</string>
+    <string name="twitterDescription">Icono de Twitter</string>
+    <string name="phoneDescription">Icono de teléfono</string>
+    <string name="mailDescription">Icono de mail</string>
+    <string name="myPhotoDescription">Mi foto de perfil</string>
+</resources>
