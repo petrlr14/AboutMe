@@ -7,4 +7,9 @@
     <string name="my_name" translatable="false">Pedro Gómez</string>
     <string name="creator" >Powered by Pedro Gómez</string>
     <string name="carrera" translatable="false">Ingeniero en Informática</string>
+    <string name="mailDescription">Mail Icon</string>
+    <string name="myPhotoDescription">My profile picture</string>
+    <string name="githubDecription">GitHub Icon</string>
+    <string name="twitterDescription">Twitter Icon</string>
+    <string name="phoneDescription">Phone Icon</string>
 </resources>
